@@ -16,3 +16,6 @@ Where multiple options for a single monster exists explain the differences below
 
 ### Arctic Tatzlewyrm
 - Creature has the same stats as the base Tatzlewyrm but the Natural Camouflage ability is altered to suit the arctic environment.
+
+### Winter-touched Sprite Fighter
+- Creature is basec on Sprite but leveled up and damage type changed to cold.
