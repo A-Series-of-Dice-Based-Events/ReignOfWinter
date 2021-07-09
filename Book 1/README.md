@@ -4,6 +4,6 @@
 
 
 ## Book 1 Statblocks
-[Arctic Tatzlwyrm PDF](./Statblocks/arctic_tatzlewyrm.pdf)   [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
+[Arctic Tatzlwyrm PDF](./Statblocks/arctic_tatzlewyrm.pdf)              [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
 
-[Winter Touched Sprite Fighter PDF](./Statblocks/winter_touched_sprite_fighter.pdf)   [Winter Touched Sprite Fighter PNG](./Statblocks/winter_touched_sprite_fighter.png)
+[Winter Touched Sprite Fighter PDF](./Statblocks/winter_touched_sprite_fighter.pdf)        [Winter Touched Sprite Fighter PNG](./Statblocks/winter_touched_sprite_fighter.png)
