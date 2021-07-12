@@ -8,7 +8,7 @@
 
 [Winter Touched Sprite Fighter PDF](./Statblocks/winter_touched_sprite_fighter.pdf)
 
-[Fawfein PDF](./Statblocks/fawfein.pdf)
+[Fawfein PDF](./Statblocks/Fawfein.pdf)
 
 
 ## Book 1 Statblocks (PNG)
@@ -16,4 +16,4 @@
 
 [Winter Touched Sprite Fighter PNG](./Statblocks/winter_touched_sprite_fighter.png)
 
-[Fawfein PNG](./Statblocks/fawfein.png)
+[Fawfein PNG](./Statblocks/Fawfein.png)
