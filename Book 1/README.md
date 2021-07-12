@@ -8,8 +8,12 @@
 
 [Winter Touched Sprite Fighter PDF](./Statblocks/winter_touched_sprite_fighter.pdf)
 
+[Fawfein PDF](./Statblocks/fawfein.pdf)
+
 
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
 
 [Winter Touched Sprite Fighter PNG](./Statblocks/winter_touched_sprite_fighter.png)
+
+[Fawfein PNG](./Statblocks/fawfein.png)
