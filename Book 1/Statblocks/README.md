@@ -19,3 +19,6 @@ Where multiple options for a single monster exists explain the differences below
 
 ### Winter-touched Sprite Fighter
 - Creature is basec on Sprite but leveled up and damage type changed to cold.
+
+### Fawfein, Winter-Touched Atomie
+- damage types changed to cold.
