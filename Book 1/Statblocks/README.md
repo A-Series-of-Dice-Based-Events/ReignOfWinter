@@ -22,3 +22,6 @@ Where multiple options for a single monster exists explain the differences below
 
 ### Fawfein, Winter-Touched Atomie
 - damage types changed to cold.
+
+### Talking Stag
+- Loosely based on riding horse.
