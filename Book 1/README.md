@@ -10,6 +10,8 @@
 
 - For Sick Raiders use above but permanently Sickened 2.
 
+- For the frost skeletons use [Skeleton Guards](http://2e.aonprd.com/Monsters.aspx?ID=372) with the **Blaze Source** ability changed to cold from fire.
+
 - Guardian Doll use an [elite Soulbound Doll](http://2e.aonprd.com/Monsters.aspx?ID=383&Elite=true)
 
 ## Book 1 Statblocks (PDF)
