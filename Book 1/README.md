@@ -4,11 +4,13 @@
 
 ## Notes on officially converted content
 
-- For the small ice elementals apply weak template to [Icicle Snakes](http://2e.aonprd.com/Monsters.aspx?ID=663)
+- For the small ice elementals use [weak Icicle Snakes](http://2e.aonprd.com/Monsters.aspx?ID=663&Weak=true)
 
-- For the Raiders apply weak template to [Bodyguard](http://2e.aonprd.com/NPCs.aspx?ID=921)
+- For the Raiders use [weak Bodyguard](http://2e.aonprd.com/NPCs.aspx?ID=921&Weak=true)
 
 - For Sick Raiders use above but permanently Sickened 2.
+
+- Guardian Doll use an [elite Soulbound Doll](http://2e.aonprd.com/Monsters.aspx?ID=383&Elite=true)
 
 ## Book 1 Statblocks (PDF)
 [Arctic Tatzlwyrm PDF](./Statblocks/arctic_tatzlewyrm.pdf)
