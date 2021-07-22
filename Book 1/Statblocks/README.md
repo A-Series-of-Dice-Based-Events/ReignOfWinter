@@ -25,3 +25,6 @@ Where multiple options for a single monster exists explain the differences below
 
 ### Talking Stag
 - Loosely based on riding horse.
+
+### 'Ten Penny' Tacey
+- Basic rogue-npc build with a half-orc ability.
