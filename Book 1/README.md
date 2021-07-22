@@ -17,6 +17,8 @@
 
 [Talking Stag PDF](./Statblocks/talking_stag.pdf)
 
+['Ten Penny' Tacey PDF](./Statblocks/ten_penny_tacey.pdf)
+
 
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
@@ -26,3 +28,5 @@
 [Fawfein PNG](./Statblocks/Fawfein.png)
 
 [Talking Stag PNG](./Statblocks/talking_stag.png)
+
+['Ten Penny' Tacey PNG](./Statblocks/ten_penny_tacey.png)
