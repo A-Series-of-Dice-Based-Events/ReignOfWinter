@@ -8,6 +8,8 @@
 
 - For the Raiders apply weak template to [Bodyguard](http://2e.aonprd.com/NPCs.aspx?ID=921)
 
+- For Sick Raiders use above but permanently Sickened 2.
+
 ## Book 1 Statblocks (PDF)
 [Arctic Tatzlwyrm PDF](./Statblocks/arctic_tatzlewyrm.pdf)
 
