@@ -1,18 +1,20 @@
 # RoW Book 1 - The Snows of Summer
 
-[A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H)
+[A Series of Dice-Based Events Discord.](https://discord.gg/UQ8UD3H)
 
 ## Notes on officially converted content
 
-- For the small ice elementals use [weak Icicle Snakes](http://2e.aonprd.com/Monsters.aspx?ID=663&Weak=true)
-
-- For the Raiders use [weak Bodyguard](http://2e.aonprd.com/NPCs.aspx?ID=921&Weak=true)
-
+- Zombie use [Zombie shambler](http://2e.aonprd.com/Monsters.aspx?ID=423).
+- For the small ice elementals use [weak Icicle Snakes](http://2e.aonprd.com/Monsters.aspx?ID=663&Weak=true).
+- For the Raiders use [weak Bodyguard](http://2e.aonprd.com/NPCs.aspx?ID=921&Weak=true).
+- [Ice Mephit](http://2e.aonprd.com/Monsters.aspx?ID=660) is officially converted.
 - For Sick Raiders use above but permanently Sickened 2.
-
 - For the frost skeletons use [Skeleton Guards](http://2e.aonprd.com/Monsters.aspx?ID=372) with the **Blaze Source** ability changed to cold from fire.
-
-- Guardian Doll use an [elite Soulbound Doll](http://2e.aonprd.com/Monsters.aspx?ID=383&Elite=true)
+- Guardian Doll use an [elite Soulbound Doll](http://2e.aonprd.com/Monsters.aspx?ID=383&Elite=true).
+- [Giant Mantis](http://2e.aonprd.com/Monsters.aspx?ID=295) is officially converted.
+- [Ice Troll](http://2e.aonprd.com/Monsters.aspx?ID=831) is officially converted.
+- Spriggan use [Spriggan Bully](https://2e.aonprd.com/Monsters.aspx?ID=817).
+- [Doppelganger](https://2e.aonprd.com/Monsters.aspx?ID=126) has been officially converted.
 
 ## Book 1 Statblocks (PDF)
 [Arctic Tatzlwyrm PDF](./Statblocks/arctic_tatzlewyrm.pdf)
