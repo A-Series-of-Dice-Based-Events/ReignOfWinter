@@ -11,8 +11,12 @@
 - For Sick Raiders use above but permanently Sickened 2.
 - For the frost skeletons use [Skeleton Guards](http://2e.aonprd.com/Monsters.aspx?ID=372) with the **Blaze Source** ability changed to cold from fire.
 - Guardian Doll use an [elite Soulbound Doll](http://2e.aonprd.com/Monsters.aspx?ID=383&Elite=true).
+- Small Air Elemental use an [elite Air Wisp](http://2e.aonprd.com/Monsters.aspx?ID=1142&Elite=true).
+- Teb Knotten use [Frost Troll](http://2e.aonprd.com/Monsters.aspx?ID=831).
 - [Giant Mantis](http://2e.aonprd.com/Monsters.aspx?ID=295) is officially converted.
+- Pale Tower Guards use [Commoner](https://2e.aonprd.com/NPCs.aspx?ID=898).
 - [Ice Troll](http://2e.aonprd.com/Monsters.aspx?ID=831) is officially converted.
+- Medium Water Elemental use [weak Mist Stalker](https://2e.aonprd.com/Monsters.aspx?ID=664&Weak=true).
 - Spriggan use [Spriggan Bully](https://2e.aonprd.com/Monsters.aspx?ID=817).
 - [Doppelganger](https://2e.aonprd.com/Monsters.aspx?ID=126) has been officially converted.
 
