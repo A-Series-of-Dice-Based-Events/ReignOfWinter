@@ -15,7 +15,7 @@
 - Teb Knotten use [Frost Troll](http://2e.aonprd.com/Monsters.aspx?ID=831).
 - [Giant Mantis](http://2e.aonprd.com/Monsters.aspx?ID=295) is officially converted.
 - Pale Tower Guards use [Commoner](https://2e.aonprd.com/NPCs.aspx?ID=898).
-- [Ice Troll](http://2e.aonprd.com/Monsters.aspx?ID=831) is officially converted.
+- [Ice Troll](http://2e.aonprd.com/Monsters.aspx?ID=831) is officially converted as Frost Troll.
 - Medium Water Elemental use [weak Mist Stalker](https://2e.aonprd.com/Monsters.aspx?ID=664&Weak=true).
 - Spriggan use [Spriggan Bully](https://2e.aonprd.com/Monsters.aspx?ID=817).
 - [Doppelganger](https://2e.aonprd.com/Monsters.aspx?ID=126) has been officially converted.
