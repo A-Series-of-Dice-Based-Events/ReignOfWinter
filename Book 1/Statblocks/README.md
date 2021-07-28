@@ -28,3 +28,6 @@ Where multiple options for a single monster exists explain the differences below
 
 ### 'Ten Penny' Tacey
 - Basic rogue-npc build with a half-orc ability.
+
+### Rokhar Cindren
+- Rokhar is built roughly as a warpriest cleric, has 1 uncommon item (lethargy poison).  This is to emulate the oil of taggit he has in 1e, GMs who don't want to give access to this poison should find a suitable common substitute.
