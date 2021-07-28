@@ -31,6 +31,8 @@
 
 ['Ten Penny' Tacey PDF](./Statblocks/ten_penny_tacey.pdf)
 
+[Rokhar Cindren PDF](./Statblocks/rokhar_cindren.pdf)
+
 
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
@@ -42,3 +44,5 @@
 [Talking Stag PNG](./Statblocks/talking_stag.png)
 
 ['Ten Penny' Tacey PNG](./Statblocks/ten_penny_tacey.png)
+
+[Rokhar Cindren PNG](./Statblocks/rokhar_cindren.png)
