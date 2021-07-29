@@ -31,3 +31,6 @@ Where multiple options for a single monster exists explain the differences below
 
 ### Rokhar Cindren
 - Rokhar is built roughly as a warpriest cleric, has 1 uncommon item (lethargy poison).  This is to emulate the oil of taggit he has in 1e, GMs who don't want to give access to this poison should find a suitable common substitute.
+
+### frost Fir
+- The sticky resin ability is largely unchanged from 1e, clumsy seems the most apt condition to give out.  Sickened would work more out of the box but an exception would be made to allow for eating and drinking while affected.  In the interest of not making new special rules for conditions I went with clumsy instead.
