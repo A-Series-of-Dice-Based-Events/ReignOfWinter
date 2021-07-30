@@ -19,6 +19,7 @@
 - Medium Water Elemental use [weak Mist Stalker](https://2e.aonprd.com/Monsters.aspx?ID=664&Weak=true).
 - Spriggan use [Spriggan Bully](https://2e.aonprd.com/Monsters.aspx?ID=817).
 - [Doppelganger](https://2e.aonprd.com/Monsters.aspx?ID=126) has been officially converted.
+- Giant Weasel has been renamed [Megalicitis](http://2e.aonprd.com/Monsters.aspx?ID=1365)
 
 ## Book 1 Statblocks (PDF)
 [Arctic Tatzlwyrm PDF](./Statblocks/arctic_tatzlewyrm.pdf)
