@@ -20,6 +20,8 @@
 - Spriggan use [Spriggan Bully](https://2e.aonprd.com/Monsters.aspx?ID=817).
 - [Doppelganger](https://2e.aonprd.com/Monsters.aspx?ID=126) has been officially converted.
 - Giant Weasel has been renamed [Megalicitis](http://2e.aonprd.com/Monsters.aspx?ID=1365)
+- [Polar Bear](http://2e.aonprd.com/Monsters.aspx?ID=567) is officially converted.
+- Timber Wolf use an [elite Wolf](http://2e.aonprd.com/Monsters.aspx?ID=415&Elite=true)
 
 ## Book 1 Statblocks (PDF)
 [Arctic Tatzlwyrm PDF](./Statblocks/arctic_tatzlewyrm.pdf)
