@@ -23,6 +23,10 @@
 - [Polar Bear](http://2e.aonprd.com/Monsters.aspx?ID=567) is officially converted.
 - Timber Wolf use an [elite Wolf](http://2e.aonprd.com/Monsters.aspx?ID=415&Elite=true)
 - [Raven Swarm](http://2e.aonprd.com/Monsters.aspx?ID=782) is officially converted.
+- [Mandragora](http://2e.aonprd.com/Monsters.aspx?ID=727) is officially converted.
+- [Domovoi](http://2e.aonprd.com/Monsters.aspx?ID=1194) is officially converted.
+- [Dvorovoi](http://2e.aonprd.com/Monsters.aspx?ID=1195) is officially converted.
+- [Ovinnik](http://2e.aonprd.com/Monsters.aspx?ID=1196) is officially converted.
 
 ## Book 1 Statblocks (PDF)
 [Arctic Tatzlwyrm PDF](./Statblocks/arctic_tatzlewyrm.pdf)
