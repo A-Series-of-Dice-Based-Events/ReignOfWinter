@@ -36,6 +36,8 @@
 
 [Frost Fir PDF](./Statblocks/frost_fir.pdf)
 
+[Hommelstaub PDF](./Statblocks/hommelstaub.pdf)
+
 
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
@@ -51,3 +53,5 @@
 [Rokhar Cindren PNG](./Statblocks/rokhar_cindren.png)
 
 [Frost Fir PNG](./Statblocks/frost_fir.png)
+
+[Hommelstaub PNG](./Statblocks/hommelstaub.png)
