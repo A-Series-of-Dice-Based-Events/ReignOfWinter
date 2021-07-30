@@ -34,3 +34,6 @@ Where multiple options for a single monster exists explain the differences below
 
 ### Frost Fir
 - The sticky resin ability is largely unchanged from 1e, clumsy seems the most apt condition to give out.  Sickened would work more out of the box but an exception would be made to allow for eating and drinking while affected.  In the interest of not making new special rules for conditions I went with clumsy instead.
+
+### Hommelstaub
+- Based on pixie family.  The oracle stuff did not come through since it was so weakly tied to his character anyways.
