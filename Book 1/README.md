@@ -28,7 +28,7 @@
 - [Dvorovoi](http://2e.aonprd.com/Monsters.aspx?ID=1195) is officially converted.
 - [Ovinnik](http://2e.aonprd.com/Monsters.aspx?ID=1196) is officially converted.
 - Emil and Katrina Goltiaeva use [Barkeeps](http://2e.aonprd.com/NPCs.aspx?ID=944).  Apply elite if you want them to be more challenging.
-- Seargent Volan Sertane use [Eleukas](http://2e.aonprd.com/NPCs.aspx?ID=1034).
+- Seargent Volan Sertane use [Eleukas](http://2e.aonprd.com/NPCs.aspx?ID=1034), change axe to longsword and alignment.
 
 ## Book 1 Statblocks (PDF)
 [Arctic Tatzlwyrm PDF](./Statblocks/arctic_tatzlewyrm.pdf)
