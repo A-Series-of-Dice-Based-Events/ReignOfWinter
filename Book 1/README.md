@@ -45,6 +45,7 @@
 
 [Hommelstaub PDF](./Statblocks/hommelstaub.pdf)
 
+[Mierul_Ardelain PDF](./Statblocks/mierul_ardelain.pdf)
 
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
@@ -62,3 +63,5 @@
 [Frost Fir PNG](./Statblocks/frost_fir.png)
 
 [Hommelstaub PNG](./Statblocks/hommelstaub.png)
+
+[Mierul_Ardelain PNG](./Statblocks/mierul_ardelain.png)
