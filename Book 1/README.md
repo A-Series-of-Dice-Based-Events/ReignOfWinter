@@ -27,6 +27,7 @@
 - [Domovoi](http://2e.aonprd.com/Monsters.aspx?ID=1194) is officially converted.
 - [Dvorovoi](http://2e.aonprd.com/Monsters.aspx?ID=1195) is officially converted.
 - [Ovinnik](http://2e.aonprd.com/Monsters.aspx?ID=1196) is officially converted.
+- Emil and Katrina Goltiaeva use [Barkeeps](http://2e.aonprd.com/NPCs.aspx?ID=944).  Apply elite if you want them to be more challenging.
 
 ## Book 1 Statblocks (PDF)
 [Arctic Tatzlwyrm PDF](./Statblocks/arctic_tatzlewyrm.pdf)
