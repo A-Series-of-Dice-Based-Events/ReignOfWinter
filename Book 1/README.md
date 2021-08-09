@@ -19,7 +19,7 @@
 - Medium Water Elemental use [weak Mist Stalker](https://2e.aonprd.com/Monsters.aspx?ID=664&Weak=true).
 - Spriggan use [Spriggan Bully](https://2e.aonprd.com/Monsters.aspx?ID=817).
 - [Doppelganger](https://2e.aonprd.com/Monsters.aspx?ID=126) has been officially converted.
-- Giant Weasel has been renamed [Megalicitis](http://2e.aonprd.com/Monsters.aspx?ID=1365)
+- Giant Weasel has been renamed [Megalicitis](http://2e.aonprd.com/Monsters.aspx?ID=1365).
 - [Polar Bear](http://2e.aonprd.com/Monsters.aspx?ID=567) is officially converted.
 - Timber Wolf use an [elite Wolf](http://2e.aonprd.com/Monsters.aspx?ID=415&Elite=true)
 - [Raven Swarm](http://2e.aonprd.com/Monsters.aspx?ID=782) is officially converted.
