@@ -37,3 +37,6 @@ Where multiple options for a single monster exists explain the differences below
 
 ### Hommelstaub
 - Based on pixie family.  The oracle stuff did not come through since it was so weakly tied to his character anyways.
+
+### Mierul
+- Spell list is a mix of occult and primal, mostly for thematic reasons.
