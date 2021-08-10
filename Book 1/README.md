@@ -49,6 +49,10 @@
 
 [Mierul Ardelain PDF](./Statblocks/mierul_ardelain.pdf)
 
+[Witchcrow PDF](./Statblocks/witchcrow.pdf)
+
+[Greater Witchcrow PDF](./Statblocks/greater_witchcrow.pdf)
+
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
 
@@ -67,3 +71,7 @@
 [Hommelstaub PNG](./Statblocks/hommelstaub.png)
 
 [Mierul Ardelain PNG](./Statblocks/mierul_ardelain.png)
+
+[Witchcrow PNG](./Statblocks/witchcrow.png)
+
+[Greater Witchcrow PNG](./Statblocks/greater_witchcrow.png)
