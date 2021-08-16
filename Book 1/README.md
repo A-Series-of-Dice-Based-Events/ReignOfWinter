@@ -53,6 +53,10 @@
 
 [Greater Witchcrow PDF](./Statblocks/greater_witchcrow.pdf)
 
+[Animated Ice Dragon PDF](./Statblocks/animated_ice_dragon.pdf)
+
+[Animated Ice Nymph PDF](./Statblocks/animated_ice_nymph.pdf)
+
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
 
@@ -75,3 +79,7 @@
 [Witchcrow PNG](./Statblocks/witchcrow.png)
 
 [Greater Witchcrow PNG](./Statblocks/greater_witchcrow.png)
+
+[Animated Ice Dragon PNG](./Statblocks/animated_ice_dragon.png)
+
+[Animated Ice Nymph PNG](./Statblocks/animated_ice_nymph.png)
