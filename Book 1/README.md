@@ -58,6 +58,9 @@
 
 [Animated Ice Nymph PDF](./Statblocks/animated_ice_nymph.pdf)
 
+[Captain Hestrig Orlov PDF](./Statblocks/captain_hestrig_orlov.pdf)
+
+
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
 
@@ -84,3 +87,5 @@
 [Animated Ice Dragon PNG](./Statblocks/animated_ice_dragon.png)
 
 [Animated Ice Nymph PNG](./Statblocks/animated_ice_nymph.png)
+
+[Captain Hestrig Orlov PNG](./Statblocks/captain_hestrig_orlov.png)
