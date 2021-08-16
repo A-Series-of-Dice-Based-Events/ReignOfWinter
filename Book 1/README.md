@@ -62,6 +62,8 @@
 
 [Jairess Sonn PDF](./Statblocks/jairess_sonn.pdf)
 
+[Radosek Pavri PDF](./Statblocks/radosek_pavri.pdf)
+
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
 
@@ -92,3 +94,5 @@
 [Captain Hestrig Orlov PNG](./Statblocks/captain_hestrig_orlov.png)
 
 [Jairess Sonn PNG](./Statblocks/jairess_sonn.png)
+
+[Radosek Pavri PDF](./Statblocks/radosek_pavri.pdf)
