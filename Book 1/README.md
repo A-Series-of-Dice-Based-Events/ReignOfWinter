@@ -60,6 +60,7 @@
 
 [Captain Hestrig Orlov PDF](./Statblocks/captain_hestrig_orlov.pdf)
 
+[Jairess Sonn PDF](./Statblocks/jairess_sonn.pdf)
 
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
@@ -89,3 +90,5 @@
 [Animated Ice Nymph PNG](./Statblocks/animated_ice_nymph.png)
 
 [Captain Hestrig Orlov PNG](./Statblocks/captain_hestrig_orlov.png)
+
+[Jairess Sonn PNG](./Statblocks/jairess_sonn.png)
