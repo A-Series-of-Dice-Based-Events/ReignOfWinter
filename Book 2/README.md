@@ -1,12 +1,26 @@
-# Title of AP
+# RoW Book 2 - The Snows of Summer
 
-[A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H)
+[A Series of Dice-Based Events Discord.](https://discord.gg/UQ8UD3H)
 
-A repository to hold tools for those wishing to run and convert Title of AP to Pathfinder 2E.
+## Notes on officially converted content
 
-The README.md files can have simple breakdowns of modified DCs for various tasks brought up in the Adventure while the individual folders can hold the files for the monster/NPC stat blocks.
+- [Raven Swarm](http://2e.aonprd.com/Monsters.aspx?ID=782) is officially converted.
+- [Winter Wolf](http://2e.aonprd.com/Monsters.aspx?ID=403) is officially converted.
+- Worg is officially converted as [Warg](http://2e.aonprd.com/Monsters.aspx?ID=402).
+- Ogre is officially convertes as [Ogre Warrior](http://2e.aonprd.com/Monsters.aspx?ID=317).
+- [Ice Troll](http://2e.aonprd.com/Monsters.aspx?ID=831) is officially converted as Frost Troll.
+- [Trollhound](http://2e.aonprd.com/Monsters.aspx?ID=835) has been officially converted.
+- For Amagara use an [elite Frost Troll](https://2e.aonprd.com/Monsters.aspx?ID=831&Elite=true).
+- [Attic Whisperer](https://2e.aonprd.com/Monsters.aspx?ID=557) is officially converted.
+- For Logrivich use a [Young White Dragon](https://2e.aonprd.com/Monsters.aspx?ID=139).
+- Spriggan has been officially converted as [Spriggan Bully](http://2e.aonprd.com/Monsters.aspx?ID=817).
+- [Nuglub](http://2e.aonprd.com/Monsters.aspx?ID=689) is officially converted.
+- [Peryton](http://2e.aonprd.com/Monsters.aspx?ID=757) is officially converted.
+- For Charmed Merchants use [weak Drunkards](http://2e.aonprd.com/NPCs.aspx?ID=946&Weak=true).
+- [Twigjack](http://2e.aonprd.com/Monsters.aspx?ID=838) is officially converted.
+- [Ice Golem](http://2e.aonprd.com/Monsters.aspx?ID=683) is officially converted.
+ 
+## Book 2 Statblocks (PDF)
 
-## Recommended Tool
 
-http://monster.pf2.tools/ uses JSON files that can be easily imported/exported. This repository ideally will hold those files publicly sourced and created, as well as other tools/files. 
-Please do not submit PDF files or entire texts of the AP. Only submit modifications for the DC and NPCs/Monsters. Please also include a page number/map section label so GMs can cross-reference.
+## Book 2 Statblocks (PNG)
