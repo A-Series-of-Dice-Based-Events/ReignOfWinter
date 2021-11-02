@@ -66,6 +66,8 @@
 
 [Radosek Pavri PDF](./Statblocks/radosek_pavri.pdf)
 
+[Valstoi PNG](./Statblocks/valstoi.png)
+
 ## Book 1 Statblocks (PNG)
 [Arctic Tatzlwyrm PNG](./Statblocks/arctic_tatzlewyrm.png)
 
@@ -98,3 +100,5 @@
 [Jairess Sonn PNG](./Statblocks/jairess_sonn.png)
 
 [Radosek Pavri PDF](./Statblocks/radosek_pavri.pdf)
+
+[Valstoi PDF](./Statblocks/valstoi.pdf)
