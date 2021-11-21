@@ -25,7 +25,9 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 ## Book 2 Statblocks (PDF)
 
 - [Winter-Touched Jinkin](Statblocks/winter_touched_jinkin.pdf)
+- [Boreal Wolf](Statblocks/boreal_wolf.pdf)
 
 ## Book 2 Statblocks (PNG)
 
 - [Winter-Touched Jinkin](Statblocks/winter_touched_jinkin.png)
+- [Boreal Wolf](Statblocks/boreal_wolf.png)
