@@ -26,8 +26,12 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 
 - [Winter-Touched Jinkin](Statblocks/winter_touched_jinkin.pdf)
 - [Boreal Wolf](Statblocks/boreal_wolf.pdf)
+- [Winter Guard Falconer](Statblocks/winter_guard_falconer.pdf)
+- [Falcon Feathered Companion](Statblocks/falcon_feathered_companion.pdf)
 
 ## Book 2 Statblocks (PNG)
 
 - [Winter-Touched Jinkin](Statblocks/winter_touched_jinkin.png)
 - [Boreal Wolf](Statblocks/boreal_wolf.png)
+- [Winter Guard Falconer](Statblocks/winter_guard_falconer.png)
+- [Falcon Feathered Companion](Statblocks/falcon_feathered_companion.png)
