@@ -10,3 +10,9 @@ The README.md files can have simple breakdowns of modified DCs for various tasks
 
 http://monster.pf2.tools/ uses JSON files that can be easily imported/exported. This repository ideally will hold those files publicly sourced and created, as well as other tools/files. 
 Please do not submit PDF files or entire texts of the AP. Only submit modifications for the DC and NPCs/Monsters. Please also include a page number/map section label so GMs can cross-reference.
+
+## Book 3 Statblocks (PDF)
+![Andrazku PDF](./Statblocks/andrazku.pdf)
+
+## Book 3 Statblocks (PNG)
+![Andrazku PNG](./Statblocks/andrazku.png)
