@@ -29,6 +29,7 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 - [Winter Guard Falconer](Statblocks/winter_guard_falconer.pdf)
 - [Falcon Feathered Companion](Statblocks/falcon_feathered_companion.pdf)
 - [Sylgja](Statblocks/sylgja.pdf)
+- [Finngarth](Statblocks/finngarth.pdf)
 
 ## Book 2 Statblocks (PNG)
 
@@ -37,3 +38,4 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 - [Winter Guard Falconer](Statblocks/winter_guard_falconer.png)
 - [Falcon Feathered Companion](Statblocks/falcon_feathered_companion.png)
 - [Sylgja](Statblocks/sylgja.png)
+- [Finngarth](Statblocks/finngarth.png)
