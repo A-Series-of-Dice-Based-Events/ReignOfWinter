@@ -30,6 +30,7 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 - [Falcon Feathered Companion](Statblocks/falcon_feathered_companion.pdf)
 - [Sylgja](Statblocks/sylgja.pdf)
 - [Finngarth](Statblocks/finngarth.pdf)
+- [Mindslaver Mold](Statblocks/mindslaver_mold.pdf)
 
 ## Book 2 Statblocks (PNG)
 
@@ -39,3 +40,4 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 - [Falcon Feathered Companion](Statblocks/falcon_feathered_companion.png)
 - [Sylgja](Statblocks/sylgja.png)
 - [Finngarth](Statblocks/finngarth.png)
+- [Mindslaver Mold](Statblocks/mindslaver_mold.png)
