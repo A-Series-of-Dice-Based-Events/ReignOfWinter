@@ -32,6 +32,7 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 - [Finngarth](Statblocks/finngarth.pdf)
 - [Mindslaver Mold](Statblocks/mindslaver_mold.pdf)
 - [Megaloceros](Statblocks/megaloceros.pdf)
+- [Huecuva](Statblocks/huecuva.pdf)
 
 ## Book 2 Statblocks (PNG)
 
@@ -43,3 +44,4 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 - [Finngarth](Statblocks/finngarth.png)
 - [Mindslaver Mold](Statblocks/mindslaver_mold.png)
 - [Megaloceros](Statblocks/megaloceros.png)
+- [Huecuva](Statblocks/huecuva.png)
