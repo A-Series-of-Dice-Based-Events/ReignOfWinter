@@ -21,6 +21,7 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 - For Charmed Merchants use [weak Drunkards](http://2e.aonprd.com/NPCs.aspx?ID=946&Weak=true).
 - [Twigjack](http://2e.aonprd.com/Monsters.aspx?ID=838) is officially converted.
 - [Ice Golem](http://2e.aonprd.com/Monsters.aspx?ID=683) is officially converted.
+- [Huldra](https://2e.aonprd.com/Monsters.aspx?ID=1197) is officially converted, use elite for Sylgja.
  
 ## Book 2 Statblocks (PDF)
 
@@ -28,7 +29,7 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 - [Boreal Wolf](Statblocks/boreal_wolf.pdf)
 - [Winter Guard Falconer](Statblocks/winter_guard_falconer.pdf)
 - [Falcon Feathered Companion](Statblocks/falcon_feathered_companion.pdf)
-- [Sylgja](Statblocks/sylgja.pdf)
+- ~~[Sylgja](Statblocks/sylgja.pdf)~~ Officially converted
 - [Finngarth](Statblocks/finngarth.pdf)
 - [Mindslaver Mold](Statblocks/mindslaver_mold.pdf)
 - [Megaloceros](Statblocks/megaloceros.pdf)
@@ -40,7 +41,7 @@ Templates for adding winter themed abilities to any 2e monster quickly are avail
 - [Boreal Wolf](Statblocks/boreal_wolf.png)
 - [Winter Guard Falconer](Statblocks/winter_guard_falconer.png)
 - [Falcon Feathered Companion](Statblocks/falcon_feathered_companion.png)
-- [Sylgja](Statblocks/sylgja.png)
+- ~~[Sylgja](Statblocks/sylgja.png)~~ Officially converted
 - [Finngarth](Statblocks/finngarth.png)
 - [Mindslaver Mold](Statblocks/mindslaver_mold.png)
 - [Megaloceros](Statblocks/megaloceros.png)
